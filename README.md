@@ -33,13 +33,20 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brenonunes96&theme=merko&show_icons=true&include_all_commits=true&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brenonunes96&theme=merko&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brenonunes96&theme=merko&layout=compact)
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brenonunes96&theme=merko&layout=compact" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brenonunes96&theme=merko)
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brenonunes96&theme=merko" alt="GitHub Streak" />
+</p>
 
 ---
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=Brenonunes96&icon=5&color=6)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Brenonunes96&icon=5&color=6" alt="Visit Count" />
+</p>
