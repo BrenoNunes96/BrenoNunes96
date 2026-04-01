@@ -35,19 +35,12 @@
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brenonunes96&theme=merko&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
   <br/>
-
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brenonunes96&theme=merko&layout=compact" alt="Top Languages" />
-
   <br/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brenonunes96&theme=merko" alt="GitHub Streak" />
 </p>
 
----
-
----
 ---
 
 <p align="center">
