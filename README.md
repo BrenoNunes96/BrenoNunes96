@@ -31,12 +31,21 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Brenonunes96&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Brenonunes96&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brenonunes96&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brenonunes96&theme=merko&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenonunes96&theme=merko&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://github-streak-stats.herokuapp.com/?user=Brenonunes96&theme=merko" alt="GitHub Streak" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Brenonunes96&icon=5&color=6)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Brenonunes96&icon=5&color=6" alt="Visit Count" />
+  </a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
