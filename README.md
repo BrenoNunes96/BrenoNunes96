@@ -42,7 +42,8 @@
 </p>
 
 ---
+---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Brenonunes96/count.svg" alt="Visit Count" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Visitas&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FBrenonunes96%2Fvisits&style=for-the-badge&logo=github" alt="Visit Count" />
 </p>
